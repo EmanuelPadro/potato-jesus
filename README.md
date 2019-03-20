@@ -1,2 +1,1 @@
-# potato-jesus
-test first repo
+# Hello Potato
