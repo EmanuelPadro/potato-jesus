@@ -7,7 +7,7 @@ NO SWEARING ON MY CLONE
 =======
 # Hello Potato
 
-cd foldername (open named folder)
+#cd foldername (open named folder)
 cd .. (go back one folder)
 dir (see directory)
 cls - clear
